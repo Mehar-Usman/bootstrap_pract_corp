@@ -1,0 +1,50 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    /* width: 100%; */
+}
+body{
+  width: 100%;
+}
+.for_bg_img{
+    background-image: url('banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* filter: brightness(); */
+    width: 100%;
+}
+.bg-head{
+    opacity: .5;
+}
+  .icons{
+    font-weight: lighter;
+  }
+  .family{
+    font-family: system-ui;
+  }
+  .icons{
+    color: orange;
+  }
+  .gh{
+    font-size: 3px; 
+  }
+  .provide{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: orange;
+  }
+  .call-us1{
+    background-color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    width: 18%;
+  }
+  .call-us1:hover{
+    background-color: green;
+    transition: 0.7s;
+  }
+  .call-us{
+    background-color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    width: 12%;
+  }
